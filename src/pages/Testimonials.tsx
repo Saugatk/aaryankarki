@@ -57,7 +57,7 @@ const Testimonials = () => {
   const stats = [
     {
       icon: <Users className="h-12 w-12 text-primary mb-4" />,
-      number: '5+',
+      number: '7+',
       label: 'Happy Clients',
       description: 'Trusted by businesses worldwide'
     },
