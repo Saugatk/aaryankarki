@@ -267,7 +267,7 @@ const Home = () => {
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
               <div className="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
                 {[
-                  { number: '5+', label: 'Satisfied Clients' },
+                  { number: '8+', label: 'Satisfied Clients' },
                   { number: '10+', label: 'Projects Delivered' },
                   { number: '2+', label: 'Years Experience' },
                   { number: '98%', label: 'Client Satisfaction' }
