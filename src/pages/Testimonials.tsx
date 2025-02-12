@@ -57,7 +57,7 @@ const Testimonials = () => {
   const stats = [
     {
       icon: <Users className="h-12 w-12 text-primary mb-4" />,
-      number: '500+',
+      number: '5+',
       label: 'Happy Clients',
       description: 'Trusted by businesses worldwide'
     },
@@ -69,13 +69,13 @@ const Testimonials = () => {
     },
     {
       icon: <ThumbsUp className="h-12 w-12 text-primary mb-4" />,
-      number: '200+',
+      number: '50+',
       label: '5-Star Reviews',
       description: 'Across various platforms'
     },
     {
       icon: <Zap className="h-12 w-12 text-primary mb-4" />,
-      number: '15+',
+      number: '2+',
       label: 'Years Experience',
       description: 'Of delivering excellence'
     }
